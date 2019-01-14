@@ -5,4 +5,4 @@
  ?>
  <h1>Test</h1>
 	<script>Test2</script>
-	<script>test1</script>
+	<script>test3</script>
