@@ -5,4 +5,4 @@
  ?>
  <h1>Test</h1>
 	<script>Test2</script>
-	<script>Test3 be zao</script>
+	<script>test1</script>
