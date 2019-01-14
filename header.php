@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<head class="test">
+<head>
 </head>
 <body>
 
