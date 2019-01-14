@@ -1,6 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head class="testa">
-</head>
-<body>
-
+<h2>H2</h2>
