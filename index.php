@@ -4,5 +4,5 @@
 	echo 'File index n 4';
  ?>
  <h1>Test</h1>
-	<script>Test2</script>
+	<script>Test1</script>
 	<script>test3</script>
